@@ -56,3 +56,23 @@
 #         secondlarge = i
 # print("secondlarge :", secondlarge)
 
+# numbers = [[1,2],[3,4],[5]]
+# flat = []
+# for i in numbers:
+#     for j in i:
+#         flat.append(j)
+# print(flat)
+
+# for i in range(10,101,10):
+#     print("loading",i,"%")
+
+# numbers = [1,2,3,4,5]
+# k = 2
+# for i in range(k):
+#     last = numbers.pop()
+#     numbers.insert(0,last)
+# print(numbers)
+
+users = [{"name":"ali","age":25,"active":true},{"name":"sara","age":21,"active":true},{"name":"john","age":40,"active":false}]
+print("active users:")
+for 

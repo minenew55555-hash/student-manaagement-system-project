@@ -1,0 +1,52 @@
+# a=["anu","ammu",2,3]
+# # print(type(a))
+# a.append("arun")
+# print(a)
+# a.insert(2,"arul")
+# print(a)
+# a.extend(["bobby","aleena","smitha"])
+# print(a)
+# b=[1,2,3]
+# print(b)
+# a.append(b)
+# print(a)
+# a.insert(3,b)
+# print(a)
+# a.extend(b)
+# print(a)
+# a.pop(5)
+# print(a)
+# a.remove("arun")
+# print(a)
+# a.remove(b)
+# print(a)
+# del a[0:1]
+# print(a)
+# del a[0:2]
+# print(a)
+# del a[0:1]
+# print(a)
+# a.clear()
+# print(a)
+# a=[10,20,30,40,50]
+# num = int(input("enter a number:"))
+# print(num in a)
+# b=[1,2,3,4,5]
+# print(b[0]>b[4])
+# print(b[0]<b[4])
+# c=[10,2,3,4,5,6,7,8,10]
+# print(len(c)>5)
+# print(len(c)>5)
+# print((c==10))
+# print((c=10))
+# print(10 in c)
+# print(c[0]+c[1]>c[8])
+# print(c[0]+c[1]>c[8])
+# print(c(len(9)>0))
+# print(len(c)>0)
+# print(len(c)<0)
+# print(all(i > 0 for i in c))
+# print(c==[])
+# print(c.index(3))
+# print(c.count(4))
+
