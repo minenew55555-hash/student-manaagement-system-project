@@ -1,8 +1,8 @@
-# a=["anu","ammu",2,3]
+# a=["anu","ammu",2,3,8,9,7]
 # # print(type(a))
 # a.append("arun")
 # print(a)
-# a.insert(2,"arul")
+# a.insert(3,"arul")
 # print(a)
 # a.extend(["bobby","aleena","smitha"])
 # print(a)
@@ -34,11 +34,11 @@
 # b=[1,2,3,4,5]
 # print(b[0]>b[4])
 # print(b[0]<b[4])
-# c=[10,2,3,4,5,6,7,8,10]
+c=[10,2,3,4,5,6,7,8,10]
 # print(len(c)>5)
 # print(len(c)>5)
-# print((c==10))
-# print((c=10))
+print((c==10))
+# print(c=10)
 # print(10 in c)
 # print(c[0]+c[1]>c[8])
 # print(c[0]+c[1]>c[8])

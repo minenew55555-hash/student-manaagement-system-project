@@ -163,6 +163,35 @@
 #       return a+b
 # print(add(4,5))
 
-def add(a,b,c):
-      return a+b+c
-print(add(2,3,4))
+# def add(a,b,c):
+#       return a+b+c
+# print(add(2,3,4))
+
+#multiple argument
+# def adder(*a):
+#     result = 0
+#     for i in a:
+#         result+=i
+#     return result
+# print(adder(10,5,7))
+# print(adder(10,3))
+# print(adder(10,20,3,4,5,6,78,12,34,56,67))
+
+# def reverse():
+#     return a[::-1]
+# a = input("enter a string: ")
+# print(reverse())
+
+# def palindrome(a):
+#     return a[::-1]
+# a = input("enter a number")
+# print(palindrome(a))
+# palindrome(a)
+
+def pal(p):
+    if p == p[::-1]:
+        return True
+    else :
+        return False
+p=input("enter the string")
+print(pal(p))

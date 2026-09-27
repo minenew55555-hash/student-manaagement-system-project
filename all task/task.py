@@ -48,3 +48,34 @@
 # a = input("enter a string")
 # print(a.upper(),a.lower())
 
+
+# while loop
+# i = 1
+# while i <= 10:
+#     print(i)
+#     i = i + 1
+
+# table = int(input("enter a number"))
+# i = 1
+# while i <= 20:
+#     a = table * i
+#     print(table ,"*", i , "=",a)
+    # i = i + 1
+
+
+# n = int(input("enter a number"))
+# i = 1
+# sum = 0
+# while i <= n:
+#     sum = sum + i
+#     i = i + 1
+# print(sum)
+
+# n = int(input("enter a number"))
+# i = 1
+# fact = 1
+# while i <= n:
+#     fact = i * fact
+#     i = i + 1
+# print(fact)
+

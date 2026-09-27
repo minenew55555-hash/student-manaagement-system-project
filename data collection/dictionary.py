@@ -1,4 +1,4 @@
-# mydict = {"a" : 1234 ,  "b" : 5423 , "c" : "aaliya"}
+mydict = {"a" : 1234 ,  "b" : 5423 , "c" : "aaliya"}
 # print(mydict)
 # print(type(mydict))
 # print(len(mydict))

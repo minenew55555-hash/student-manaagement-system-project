@@ -48,19 +48,19 @@ if a >= 0:
 else :
     print("negative")
 
-a = int(input("enter a number"))
-if a >= 40:
-    if a >= 75:
-        print("distinction")
-    else :
-        print("passed")
-else :
-    print("failed")
+# a = int(input("enter a number"))
+# if a >= 40:
+#     if a >= 75:
+#         print("distinction")
+#     else :
+#         print("passed")
+# else :
+#     print("failed")
         
-a = int(input("enter age"))
-b = int(input("enter a salary"))
-if a >= 21 and b >= 25000:
-    print("eligible")
-else :
-    print("not eligible")
+# a = int(input("enter age"))
+# b = int(input("enter a salary"))
+# if a >= 21 and b >= 25000:
+#     print("eligible")
+# else :
+#     print("not eligible")
    

@@ -1,0 +1,30 @@
+[
+    {
+        "name": "farhana",
+        "age": "22",
+        "email": "farhana@gmail.com",
+        "password": "1212",
+        "class_name": "python"
+    },
+    {
+        "name": "aaliya",
+        "age": "22",
+        "email": "aaliya@gmail.com",
+        "password": "12345",
+        "class_name": "python"
+    },
+    {
+        "name": "jyothi",
+        "age": "22",
+        "email": "jyothi@gmail.com",
+        "password": "11111",
+        "class_name": "python"
+    },
+    {
+        "name": "naziya",
+        "age": "22",
+        "email": "naziya@gmail.com",
+        "password": "1212",
+        "class_name": "data anlalytics"
+    }
+]
